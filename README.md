@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ![Image](https://github.com/Mont-xe/Mont-xe/issues/2#issue-2236946240)
+  ![Caratula](https://github.com/Mont-xe/Mont-xe/assets/160337087/82f56e80-726a-4183-bfab-a8852fd5cf4c)
   
   </div>
 
