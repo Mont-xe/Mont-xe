@@ -1,4 +1,3 @@
-<div id="header" align="center">
   ![Caratula](https://github.com/Mont-xe/Mont-xe/assets/160337087/82f56e80-726a-4183-bfab-a8852fd5cf4c)
   
   </div>
