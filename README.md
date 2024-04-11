@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Mont-xe/Mont-xe/issues/1#issue-2236918190" />
-  
-
+  ![Image](https://github.com/Mont-xe/Mont-xe/issues/1#issue-2236918190)
   
 </div>
 
