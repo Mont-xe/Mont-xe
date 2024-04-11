@@ -1,5 +1,6 @@
   ![Caratula](https://github.com/Mont-xe/Mont-xe/assets/160337087/82f56e80-726a-4183-bfab-a8852fd5cf4c)
-  
+  ![Power_point-gift](https://github.com/Mont-xe/Mont-xe/assets/160337087/554ae791-aa7d-4646-8dc2-56a761a69894)
+
   <h1 align="center">Hello I'm Montse 👋
 
 ## I have started this new adventure in the world of cybersecurity. On this page you can find my current developments. Let's get to work, this will be fun!
