@@ -1,16 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://drive.google.com/file/d/10ODQlHu7TWT8ZZTnD4EDJcvwW4xvqrBl/view?usp=sharing" width="400" />
+  <h1 align="center">Hi there 👋
+</div>
 
-<!--
-**Mont-xe/Mont-xe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I have started this new adventure in the world of cybersecurity. On this page you can find my current developments. Let's get to work, this will be fun!
+  
 
-Here are some ideas to get you started:
+- 🛜 I’m currently working on Specialty of Communication Sciences at the UNAM 
+- 👩‍🎓 I’m currently learning at Universidad Ameriké
+- 💬 Ask me about my background experience
+- 📫 How to reach me: cdmx2958@amerike.edu.mx
+- 😽 Causes I support: Animal respect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
